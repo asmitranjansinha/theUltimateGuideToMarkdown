@@ -37,3 +37,19 @@ _Markdown images have exactly the same formatting as a link, except they’re pr
 ```
 
 ![DisasterGirl](https://ichef.bbci.co.uk/news/976/cpsprodpb/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg.webp)
+
+### List
+
+```
+* Main
+* Main
+    * Sub
+* Main
+```
+
+Example:
+
+* Feature
+* Feature
+    * Components
+* Feature
