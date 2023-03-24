@@ -64,4 +64,5 @@ There's not much to say about this, yop just have to use:
 ```
 
 Example:
-> I drink and I know things! -Tyrion
+> I drink and I know things!  
+> -Tyrion
