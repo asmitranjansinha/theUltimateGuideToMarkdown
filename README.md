@@ -33,5 +33,7 @@ Example: [Refresh](https://github.com/asmitranjansinha/theUltimateGuideToMarkdow
 _Markdown images have exactly the same formatting as a link, except they’re prefixed with a !. This time, the text in brackets is the alt text - or the descriptive text for the image._
 
 ```
-![DisasterGirl](https://ichef.bbci.co.uk/news/976/cpsprodpb/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg.webp)
+![ImageTitle](ImageUrl)
 ```
+
+![DisasterGirl](https://ichef.bbci.co.uk/news/976/cpsprodpb/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg.webp)
