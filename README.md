@@ -26,6 +26,8 @@
 [text] and (place to go when the button is clicked)
 ```
 
+[refresh](https://github.com/asmitranjansinha/theUltimateGuideToMarkdown)
+
 ### Images
 
 ```
