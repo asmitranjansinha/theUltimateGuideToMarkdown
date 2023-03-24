@@ -20,3 +20,14 @@
 ***bold-italic***
 ```
 
+***To add a link: wrap the text which you want to be linked in square brackets, followed by the URL to be linked to in parenthesis.***
+
+```
+[text] and (place to go when the button is clicked)
+```
+
+### Images
+
+```
+![m'lady](https://i.imgur.com/v8IVDka.jpg)
+```
