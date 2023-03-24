@@ -40,6 +40,8 @@ _Markdown images have exactly the same formatting as a link, except they’re pr
 
 ### List
 
+_For a bullet list, just prefix each like with a \* - or - or + and they will be converted to dots. You can also create nested lists; just indent a line with 4 spaces and it will be nested under the line above._
+
 ```
 * Main
 * Main
@@ -49,7 +51,7 @@ _Markdown images have exactly the same formatting as a link, except they’re pr
 
 Example:
 
-* Feature
-* Feature
-    * Components
-* Feature
+- Feature
+- Feature
+  - Components
+- Feature
