@@ -57,7 +57,7 @@ Example:
 
 ### Quotes
 
-There's not much to say about this, yop just have to use:
+There's not much to say about this, you just have to use:
 
 ```
 > your quotes go here.
@@ -66,3 +66,6 @@ There's not much to say about this, yop just have to use:
 Example:
 > I drink and I know things!  
 > -Tyrion
+
+
+***May or may not get updated, Come back to check!***
